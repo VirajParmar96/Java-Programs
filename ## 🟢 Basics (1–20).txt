@@ -1,0 +1,144 @@
+## 🟢 **Basics (1–20)**
+
+> Simple programs for understanding Java syntax and basic logic.
+
+1. Hello World
+2. Sum of Two Numbers
+3. Swap Two Numbers
+4. Check Even or Odd
+5. Find Largest of Three Numbers
+6. Factorial of a Number
+7. Fibonacci Series
+8. Palindrome Number
+9. Armstrong Number
+10. Reverse a Number
+11. Calculate Simple Interest
+12. Check Leap Year
+13. Prime Number Check
+14. Multiplication Table
+15. Count Digits in a Number
+16. Sum of Digits
+17. Power of a Number
+18. GCD of Two Numbers
+19. LCM of Two Numbers
+20. Print ASCII Value of a Character
+
+---
+
+## 🟡 **Conditional & Looping (21–30)**
+
+21. Check Vowel or Consonant
+22. Print All Alphabets
+23. Print Pyramid Pattern
+24. Print Diamond Pattern
+25. Print Floyd’s Triangle
+26. Sum of Natural Numbers
+27. Find HCF Using While Loop
+28. Display Prime Numbers in a Range
+29. Check Perfect Number
+30. Check Strong Number
+
+---
+
+## 🔵 **Arrays (31–40)**
+
+31. Sum of Array Elements
+32. Find Largest Element in Array
+33. Find Smallest Element in Array
+34. Copy Elements to Another Array
+35. Count Even and Odd Elements in Array
+36. Reverse an Array
+37. Left Rotate Array
+38. Right Rotate Array
+39. Sort Array Elements
+40. Remove Duplicate Elements from Array
+
+---
+
+## 🟣 **Strings (41–50)**
+
+41. Reverse a String
+42. Check Palindrome String
+43. Count Vowels and Consonants
+44. Count Words in a String
+45. Remove All Whitespaces
+46. Toggle Case of Characters
+47. Replace Characters in String
+48. Check Anagram Strings
+49. Find Duplicate Characters
+50. Find Most Frequent Character
+
+---
+
+## 🟠 **Object-Oriented Programming (51–60)**
+
+51. Class and Object Example
+52. Constructor Overloading
+53. Method Overloading
+54. Method Overriding
+55. Inheritance Example
+56. Abstract Class Example
+57. Interface Implementation
+58. Encapsulation Example
+59. Static Keyword Usage
+60. This and Super Keyword Demo
+
+---
+
+## 🔴 **Exception Handling & File I/O (61–70)**
+
+61. Try-Catch Example
+62. Multiple Catch Blocks
+63. Throw and Throws Example
+64. Custom Exception Class
+65. Read File Line by Line
+66. Write Text to File
+67. Copy File Contents
+68. Count Words in a File
+69. Serialize and Deserialize Object
+70. File Not Found Handling
+
+---
+
+## 🟤 **Collections (71–80)**
+
+71. ArrayList Example
+72. LinkedList Example
+73. HashSet Example
+74. TreeSet Example
+75. HashMap Example
+76. TreeMap Example
+77. Stack Example
+78. Queue Implementation
+79. PriorityQueue Usage
+80. Iterate Through Map Entries
+
+---
+
+## ⚫ **Algorithms & Data Structures (81–90)**
+
+81. Linear Search
+82. Binary Search
+83. Bubble Sort
+84. Selection Sort
+85. Insertion Sort
+86. Merge Sort
+87. Quick Sort
+88. Matrix Multiplication
+89. Transpose of Matrix
+90. Sparse Matrix Representation
+
+---
+
+## 🧠 **Advanced Programs (91–100)**
+
+91. Thread Creation by Extending Thread Class
+92. Thread Creation by Implementing Runnable
+93. Producer-Consumer Problem
+94. Synchronization in Threads
+95. Timer and TimerTask Example
+96. GUI with Swing (Simple Calculator)
+97. Read Config File Using Properties Class
+98. Lambda Expressions in Java
+99. Streams API Usage
+100. Mini Project: Student Management System (Console-based)
