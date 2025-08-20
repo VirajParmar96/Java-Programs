@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class TryCatchExample {
+public class P61_TryCatchExample {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
