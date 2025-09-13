@@ -141,4 +141,4 @@
 97. Read Config File Using Properties Class
 98. Lambda Expressions in Java
 99. Streams API Usage
-100. Mini Project: Student Management System (Console-based)
+100. Quick Sort
