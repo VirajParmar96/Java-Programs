@@ -3,7 +3,7 @@
   Level  : Advanced
   Author : Viraj Parmar
   Description:
-    Implements the Quick Sort algorithm using recursion.
+    Implementing the Quick Sort algorithm using recursion.
     It sorts an array in ascending order by selecting a pivot
     and partitioning the elements.
 */
